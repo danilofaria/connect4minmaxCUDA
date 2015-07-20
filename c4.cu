@@ -3,7 +3,7 @@
 #include <cuda.h>
 #include <fstream>
 #include <iostream>
-
+asdasd
 
 #define N_ROWS 5
 #define N_COLUMNS 6
